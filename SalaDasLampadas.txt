@@ -1,0 +1,7 @@
+Primeiro passo é ligar uma das lâmpadas e deixar ela acesa por alguns minutos;
+Após isso a desliga e liga um outro interruptor; 
+Com isso você deverá ir a sala que tem as 3 lâmpadas. 
+Nessa sala é indicado que você identifique qual das lâmpadas apagadas está mais quente, visto que quando a lâmpada é acesa ela aquece.
+Com essa informação você descobriu qual foi a primeira lâmpada ligada;
+Na sala das lâmpadas você também deve ter observado a lâmpada que estava acesa, pois essa é a referente ao segundo interruptor;
+Logo, a lâmpada que restou será referente ao terceiro interruptor.
